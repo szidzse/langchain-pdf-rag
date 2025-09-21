@@ -12,8 +12,6 @@ Key features:
 ## Technologies
 
 [![LangChain](https://img.shields.io/badge/LangChain-angchain-blue?style=for-the-badge)](https://github.com/hwchase17/langchain)
-[![LangChain Community](https://img.shields.io/badge/LangChain--Community-blueviolet?style=for-the-badge)](https://github.com/langchain-ai/langchain-community)
-[![LangChain OpenAI](https://img.shields.io/badge/LangChain--OpenAI-lightblue?style=for-the-badge)](https://github.com/hwchase17/langchain)
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-orange?style=for-the-badge)](https://github.com/chroma-core/chroma)
 [![PyPDF](https://img.shields.io/badge/PyPDF-red?style=for-the-badge)](https://github.com/py-pdf/PyPDF2)
 [![Pandas](https://img.shields.io/badge/Pandas-lightgrey?style=for-the-badge)](https://pandas.pydata.org/)
