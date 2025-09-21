@@ -1,0 +1,12 @@
+# Environment variables
+.env
+
+# Cache and db folder created by Streamlit
+/app/__pycache__
+/app/db
+
+# Virtual Environment
+myenv
+
+# Local vector database
+vectorstore_chroma
